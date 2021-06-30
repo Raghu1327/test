@@ -1,3 +1,1 @@
-# HI
-
-console.log ("hello)
+# Hello
